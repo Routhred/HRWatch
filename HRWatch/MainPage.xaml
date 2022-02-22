@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HRWatch.MainPage">
+    <StackLayout>
+
+        <Frame BackgroundColor="{StaticResource AppBackgroundColor}" Padding="24" CornerRadius="0">
+            <Label Text="Bienvenue Sur HRWatch" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <StackLayout Orientation="Horizontal" >
+            <Button Text="Jours de congés" 
+                    Clicked="DayOff"
+                    TextColor="{StaticResource ButtonTextFont}"
+                    HorizontalOptions="CenterAndExpand"
+                    BackgroundColor="{StaticResource AppBackgroundColor}"
+                    VerticalOptions="CenterAndExpand"/>
+            <Button Text="Données personnelles" 
+                    Pressed="Data"
+                    TextColor="{StaticResource ButtonTextFont}"
+                    BackgroundColor="{StaticResource AppBackgroundColor}"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    CornerRadius="20"/>
+        </StackLayout>
+    </StackLayout>
+    
+
+</ContentPage>
