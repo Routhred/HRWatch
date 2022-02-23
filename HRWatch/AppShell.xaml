@@ -2,7 +2,8 @@
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        x:Class="HRWatch.AppShell"
        xmlns:local="clr-namespace:HRWatch.View"
-       xmlns:main="clr-namespace:HRWatch">
+       xmlns:main="clr-namespace:HRWatch"
+       xmlns:icon="HRWatch.Icon">
     <FlyoutItem Title="Acceuil">
         <ShellContent Route="MainPage" ContentTemplate="{DataTemplate main:MainPage}" />
     </FlyoutItem>
@@ -11,5 +12,8 @@
     </FlyoutItem>
     <FlyoutItem Title="Congés">
         <ShellContent Route="DayOff" ContentTemplate="{DataTemplate local:DayOff}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Données" Icon="data.jpg">
+        <ShellContent Route="PersonalData" ContentTemplate="{DataTemplate local:PersonalData}" />
     </FlyoutItem>
 </Shell>

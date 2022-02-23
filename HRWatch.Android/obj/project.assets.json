@@ -3177,11 +3177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
+      "projectUniqueName": "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
       "projectName": "HRWatch.Android",
-      "projectPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
+      "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
       "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch.Android\\obj\\",
+      "outputPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3198,8 +3198,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\HRWatch.csproj": {
-              "projectPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\HRWatch.csproj"
+            "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj": {
+              "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E3VHHKkRPS82ToEsuNxJHj0KSS3ZEWzh2JKwnqV+EFrjkBpZEg3uceeeFazJ9ZcerS36MgwCQtxWycsq09ZRig==",
+  "dgSpecHash": "oPVEx1BT/xMnFDiApAJzMOwOu9J76r0aaC0seN/sce/TSQBwTjtSiJgxES3Sd//Jnk9AvjB/OTp9wYFC00G8aw==",
   "success": true,
-  "projectFilePath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\HRWatch.csproj",
+  "projectFilePath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

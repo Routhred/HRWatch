@@ -530,11 +530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\HRWatch.csproj",
+      "projectUniqueName": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj",
       "projectName": "HRWatch",
-      "projectPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\HRWatch.csproj",
+      "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj",
       "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\obj\\",
+      "outputPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\romai\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch.iOS\\HRWatch.iOS.csproj",
+      "projectUniqueName": "E:\\dev\\application\\git\\HRWatch\\HRWatch.iOS\\HRWatch.iOS.csproj",
       "projectName": "HRWatch.iOS",
-      "projectPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch.iOS\\HRWatch.iOS.csproj",
+      "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.iOS\\HRWatch.iOS.csproj",
       "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch.iOS\\obj\\",
+      "outputPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\HRWatch.csproj": {
-              "projectPath": "E:\\dev\\application\\HRWatch\\HRWatch\\HRWatch\\HRWatch.csproj"
+            "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj": {
+              "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj"
             }
           }
         }
