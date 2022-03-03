@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj": {}
+    "F:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj": {}
   },
   "projects": {
-    "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj": {
+    "F:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
+        "projectUniqueName": "F:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
         "projectName": "HRWatch.Android",
-        "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
+        "projectPath": "F:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
         "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-        "outputPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\obj\\",
+        "outputPath": "F:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj": {
-                "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj"
+              "F:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj": {
+                "projectPath": "F:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj"
               }
             }
           }
@@ -50,14 +50,14 @@
         }
       }
     },
-    "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj": {
+    "F:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj",
+        "projectUniqueName": "F:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj",
         "projectName": "HRWatch",
-        "projectPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj",
+        "projectPath": "F:\\dev\\application\\git\\HRWatch\\HRWatch\\HRWatch.csproj",
         "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-        "outputPath": "E:\\dev\\application\\git\\HRWatch\\HRWatch\\obj\\",
+        "outputPath": "F:\\dev\\application\\git\\HRWatch\\HRWatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romai\\AppData\\Roaming\\NuGet\\NuGet.Config",

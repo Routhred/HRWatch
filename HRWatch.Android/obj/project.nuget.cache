@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHYGQ4qBIWpLc1u8n5HH72kxhSZ7F60SP7rsO7nFHduhp+kDCb9vgz3azg9M85/NWXPtRhjiJ17kJxPKK8p+bQ==",
+  "dgSpecHash": "KT6BITBaq9/WN4JfP70pXlYiaCHisIO6K9krIyHaVZzbtKfxMQtqz+sAviMaensh3larLL0MixXXbWSVJNm0dg==",
   "success": true,
-  "projectFilePath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
+  "projectFilePath": "F:\\dev\\application\\git\\HRWatch\\HRWatch.Android\\HRWatch.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

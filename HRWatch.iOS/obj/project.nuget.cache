@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W+nAGREuqknRtYNNood7I3idC1APjwO9Z1RglMM2xTxMGTxspHKne2mDLvvpBcugs55hWddCQYTbSJGZ0Prp9g==",
+  "dgSpecHash": "CNuMsgbYYw++ZSE+Bq+E7+S4zX9cSj+2Fhk0iCQM9F9YVxLFIsWe/q8BDIbwvCLfVs1xjRxco3CvHzGnKxmeWQ==",
   "success": true,
-  "projectFilePath": "E:\\dev\\application\\git\\HRWatch\\HRWatch.iOS\\HRWatch.iOS.csproj",
+  "projectFilePath": "F:\\dev\\application\\git\\HRWatch\\HRWatch.iOS\\HRWatch.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

@@ -15,7 +15,12 @@
       "ProjectGuid": "7a94ae38-67d8-43aa-924d-b30281da99bc",
       "DisplayName": "HRWatch.Android",
       "ColorIndex": 1
+    },
+    "03da68a8-a65a-465e-a655-0d36a6d7c5e6": {
+      "ProjectGuid": "03da68a8-a65a-465e-a655-0d36a6d7c5e6",
+      "DisplayName": "HRWatch.iOS",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

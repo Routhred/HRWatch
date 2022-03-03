@@ -7,6 +7,9 @@
             <Label Text="Data"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Button Text="Load Data"
+                    Clicked="readPersonXml"/>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
